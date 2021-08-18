@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KyeongTaek
 - 👀 I’m interested in learning coding language
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning c and a bit of python.
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me : Email(tommyholic@naver.com)
 
