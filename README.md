@@ -32,7 +32,7 @@
    <img src="https://img.shields.io/badge/Email_me-2DB400?style=flat-square&logoColor=white&link=tommyholic@naver.com"/>
 </a>
 
-<a href="kyeongtaek.github.io">
+<a href="https://kyeongtaek.github.io">
    <img src="https://img.shields.io/badge/Blog-2b3137?style=flat-square&logoColor=white&link=https://kyeongtaek.github.io"/>
 </a>
 
